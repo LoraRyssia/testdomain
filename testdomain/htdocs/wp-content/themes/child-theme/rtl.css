@@ -1,0 +1,43 @@
+/*
+Theme Name: Twenty Seventeen Child
+Template: twentyseventeen
+*/
+
+.has-sidebar:not(.error404) #primary {
+		float: right;
+}
+
+.has-sidebar #secondary {
+		float: left;
+}
+
+.single-product .woocommerce-product-rating .star-rating {
+	float: right;
+}
+
+.widget_product_search input[type=submit] {
+	left: 0.5em;
+	right: auto;
+}
+
+.widget_product_search .search-field {
+	padding-left: 100px;
+	padding-right: 10px;
+}
+
+.widget .product_list_widget li a.remove {
+	float: left;
+}
+
+.woocommerce #content div.product div.thumbnails a, .woocommerce div.product div.thumbnails a, .woocommerce-page #content div.product div.thumbnails a, .woocommerce-page div.product div.thumbnails a {
+	float: right;
+}
+
+.star-rating span {
+	float: right;
+	right: 0;
+}
+
+.star-rating span::before {
+	right: 0.2em;
+}
