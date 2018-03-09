@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: lovemagi.mysql.ukraine.com.ua
--- Час створення: Бер 07 2018 р., 15:52
+-- Час створення: Бер 09 2018 р., 16:19
 -- Версія сервера: 5.6.27-75.0-log
 -- Версія PHP: 7.0.27
 
@@ -720,7 +720,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (696, '_transient_wc_related_37', 'a:13:{i:0;s:2:\"15\";i:1;s:2:\"19\";i:2;s:2:\"22\";i:3;s:2:\"31\";i:4;s:2:\"34\";i:5;s:2:\"40\";i:6;s:2:\"47\";i:7;s:2:\"50\";i:8;s:2:\"56\";i:9;s:2:\"60\";i:10;s:3:\"108\";i:11;s:3:\"109\";i:12;s:3:\"110\";}', 'no'),
 (701, 'genre_children', 'a:0:{}', 'yes'),
 (702, '_transient_twentyseventeen_categories', '1', 'yes'),
-(703, '_transient_doing_cron', '1520430750.4878520965576171875000', 'yes');
+(703, '_transient_doing_cron', '1520602224.6089470386505126953125', 'yes');
 
 -- --------------------------------------------------------
 
