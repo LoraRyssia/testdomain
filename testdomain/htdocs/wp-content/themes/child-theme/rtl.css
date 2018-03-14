@@ -2,6 +2,10 @@
 Theme Name: Twenty Seventeen Child
 Template: twentyseventeen
 */
+body {
+	direction: rtl;
+  unicode-bidi: embed;
+}
 
 .has-sidebar:not(.error404) #primary {
 		float: right;
@@ -39,5 +43,5 @@ Template: twentyseventeen
 }
 
 .star-rating span::before {
-	right: 0.2em;
+	right: 0;
 }
