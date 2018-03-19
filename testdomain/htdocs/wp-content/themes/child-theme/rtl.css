@@ -3,8 +3,9 @@ Theme Name: Twenty Seventeen Child
 Template: twentyseventeen
 */
 body {
+	unicode-bidi: embed;
 	direction: rtl;
-  unicode-bidi: embed;
+  
 }
 
 .has-sidebar:not(.error404) #primary {
@@ -40,8 +41,14 @@ body {
 .star-rating span {
 	float: right;
 	right: 0;
+	left: auto;
 }
 
 .star-rating span::before {
-	right: 0;
+	right: 0.1em;
+	left: auto;
+}
+
+.products h3 {
+	direction: ltr;
 }
